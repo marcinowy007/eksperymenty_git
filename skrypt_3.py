@@ -1,0 +1,1 @@
+print("Jeszcze wincyj kodu")
