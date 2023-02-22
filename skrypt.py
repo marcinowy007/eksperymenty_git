@@ -3,4 +3,3 @@
 
 
 print("Mind-blowing coding going on")
-return "Dziko!"
